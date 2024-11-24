@@ -1,0 +1,8 @@
+Beste lezer, deze react website is gemaakt met specifieke dependencies die nodig zijn voor het runnen van de website
+deze staan in het bestand package.json
+
+de structuur van de website is gefocust rond de Navbar, deze zorgt ervoor dat de website snel en soepel door de componenten in de map pages kan wisselen
+
+dit is mogelijk gemaakt door de react library react-router-dom wat ook een van de dependencies is
+
+de componenten zijn waar de uiteindelijke resultaten of functies van de back-end uiteindelijk in verwerkt worden alleen is dit nog niet af
